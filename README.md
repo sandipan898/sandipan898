@@ -20,7 +20,7 @@ Hello, I'm [Sandipan Das](https://linkedin.com/in/sandipan-das-528166175), an un
 
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [](https://twitter.com/abhisheknaiidu)
+- 📫 How to reach me: [Connect on LinkedIn](https://linkedin.com/in/sandipan-das-528166175)
 - 📝 [Resume](https://drive.google.com/file/d/1NCtnA2wt_1eqGnQmy8Hv3mxi1L_NUIG3/view?usp=sharing)
 
 **Languages and Tools:**  
@@ -32,8 +32,6 @@ Hello, I'm [Sandipan Das](https://linkedin.com/in/sandipan-das-528166175), an un
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 🚧 **My Todoist Stats:**
