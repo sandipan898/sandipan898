@@ -25,28 +25,24 @@ Hello, I'm [Sandipan Das](https://linkedin.com/in/sandipan-das-528166175), an un
 
 **Languages and Tools:**  
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-<img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-<!-- 🏆  7,837 Task Points            -->
-✅  Completed 6 tasks today           
-<!-- 🌸  Completed 642 tasks so far            -->
+<!-- 🏆  7,837 Karma Points            -->
+🌸  Completed 0 tasks today           
+<!-- ✅  Completed 642 tasks so far            -->
 <!-- ⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="abhisheknaiidu" /> </p>
-
-
-
-
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="Sandipan Das | stat"/> </p>
