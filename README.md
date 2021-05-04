@@ -22,15 +22,17 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
 <br />
+<br />
 
-Hello, I'm [Sandipan Das](https://linkedin.com/in/sandipan-das-528166175), an under graduate B.Tech student and Backend web developer, passionate about software development, from India. As a software developer, I've worked with many different technologies and projects which can be found on [here](https://github.com/sandipan898?tab=repositories).
+Hello, I'm [Sandipan Das](https://linkedin.com/in/sandipan-das-528166175), an under graduate B.Tech student and Backend web developer, passionate about software development, learning, exploring and creating new technologies and services every day to make the world a better place.
+As a software developer, I've worked on various technologies and projects which can be found [here](https://github.com/sandipan898?tab=repositories).
 
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything on technologies, I am happy to help you out.
 - 📫 How to reach me: [Connect on LinkedIn](https://linkedin.com/in/sandipan-das-528166175)
 - 📝 [Resume](https://drive.google.com/file/d/1NCtnA2wt_1eqGnQmy8Hv3mxi1L_NUIG3/view?usp=sharing)
 
-**Languages and Tools:**  
+**Tools and Technologies:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
@@ -63,7 +65,7 @@ C++          ██████░░░░░░░░░░░░░░   30 %
 ```
 <!--END_SECTION:waka-->
 
-🏆 **Achievements:**
+🏆 **Other Achievements:**
 <!-- ACHIEVEMENTS:START -->
 - 1 st Rank holder in semester
 examination (9.31 CGPA)
@@ -79,14 +81,9 @@ against COVID-19 (E-radicate)
 🚧 **My Todoist Records:**
 <!-- TODO-IST:START -->
 ✅  Completed tasks today: 8           
-🌸  Total tasks assigned: 10
+🌸  Higest assigned task limit: 10
 
 <!-- TODO-IST:END -->
-
-
-📈 My GitHub Stats
-
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="Sandipan Das | stat"/> </p>
 
 :running: Extracurricular Activities:
 - YouTube Content Creating (Technical
@@ -95,3 +92,7 @@ against COVID-19 (E-radicate)
 - Sports
 - Drawing
 - Reading Storybooks
+
+📈 My GitHub Stats
+
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="Sandipan Das | stat"/> </p>
