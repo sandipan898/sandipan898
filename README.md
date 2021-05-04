@@ -63,15 +63,35 @@ C++          ██████░░░░░░░░░░░░░░   30 %
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
+🏆 **Achievements:**
+<!-- ACHIEVEMENTS:START -->
+- 1 st Rank holder in semester
+examination (9.31 CGPA)
+- 6 th place holder in national level
+Innovative Idea Competition to fight
+against COVID-19 (E-radicate)
+- Top 3 academic performer in 2 nd year
+(9.55 CGPA)
+- Achieved Google Cloud Skill Badges.
+- Achieved Microsoft learn skill Badges and trophies.
+<!-- ACHIEVEMENTS:END -->
+
+🚧 **My Todoist Records:**
 <!-- TODO-IST:START -->
-<!-- 🏆  7,837 Karma Points            -->
-🌸  Completed 0 tasks today           
-<!-- ✅  Completed 642 tasks so far            -->
-<!-- ⏳  Longest streak is 10 days -->
+✅  Completed tasks today: 8           
+🌸  Total tasks assigned: 10
+
 <!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="Sandipan Das | stat"/> </p>
+
+:running: Extracurricular Activities:
+- YouTube Content Creating (Technical
+- Tutorial videos)
+- Writing quotes
+- Sports
+- Drawing
+- Reading Storybooks
