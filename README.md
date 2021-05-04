@@ -1,5 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<!-- Latest compiled and minified CSS
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> --> -->
+
 <a href="https://linkedin.com/in/sandipan-das-528166175/">
   <img align="left" alt="Sandipan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -93,12 +99,10 @@ examination (9.31 CGPA)
 
 <!-- TODO-IST:END -->
 
-:running: Extracurricular Activities:
-- Writing quotes
-- Sports
-- Drawing
-- Reading Storybooks
-
 📈 My GitHub Stats
 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="Sandipan Das | stat"/> </p>
+<p align=""> 
+<img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="Sandipan Das | stat"/> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandipan898&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
