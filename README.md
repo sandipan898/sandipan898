@@ -65,15 +65,23 @@ C++          ██████░░░░░░░░░░░░░░   30 %
 ```
 <!--END_SECTION:waka-->
 
+🏆 **Having working experience as:**
+<!-- WORK-EXPERIENCE:START -->
+- Backend Developer
+- Full Stack Web Developer
+- Youtube Content Creator (Technical tutorial videos)
+- Computer Teacher.
+<!-- WORK-EXPERIENCE:END -->
+
 🏆 **Other Achievements:**
 <!-- ACHIEVEMENTS:START -->
-- 1 st Rank holder in semester
-examination (9.31 CGPA)
 - 6 th place holder in national level
 Innovative Idea Competition to fight
 against COVID-19 (E-radicate)
+- 1 st Rank holder in semester
+examination (9.31 CGPA)
 - Top 3 academic performer in 2 nd year
-(9.55 CGPA)
+(9.55 SGPA)
 - Achieved Google Cloud Skill Badges.
 - Achieved Microsoft learn skill Badges and trophies.
 <!-- ACHIEVEMENTS:END -->
@@ -86,8 +94,6 @@ against COVID-19 (E-radicate)
 <!-- TODO-IST:END -->
 
 :running: Extracurricular Activities:
-- YouTube Content Creating (Technical
-- Tutorial videos)
 - Writing quotes
 - Sports
 - Drawing
