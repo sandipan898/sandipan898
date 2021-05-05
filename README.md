@@ -38,6 +38,8 @@ As a software developer, I've worked on various technologies and projects which 
 - 📫 How to reach me: [Connect on LinkedIn](https://linkedin.com/in/sandipan-das-528166175)
 - 📝 [Resume](https://drive.google.com/file/d/1NCtnA2wt_1eqGnQmy8Hv3mxi1L_NUIG3/view?usp=sharing)
 
+<br/>
+
 **Tools and Technologies:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -59,7 +61,21 @@ As a software developer, I've worked on various technologies and projects which 
 <code><img height="20" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
-👨‍💻 **Programming:**
+
+🖥️ **My Weekly Activity:**
+<!--START_SECTION:waka-->
+```text
+Week: 27 April, 2021 - 04 May, 2021
+
+Markdown     30 mins         ████████████████████░░░░░   80.15 % 
+Python       5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+YAML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+```
+<!--END_SECTION:waka-->
+
+<br/>
+
+👨‍💻 **Programming Skills:**
 ```
 C            █████████████████░░░   85 %  
 Python       ██████████████░░░░░░   70 %  
@@ -68,11 +84,6 @@ JavaScript   ████████░░░░░░░░░░░░   40 %
 C++          ██████░░░░░░░░░░░░░░   30 %  
 Java         ██████░░░░░░░░░░░░░░   30 %   
 ```
-
-🖥️ **This Weekly Activity:**
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 💼 **Having working experience as:**
 <!-- WORK-EXPERIENCE:START -->
@@ -102,7 +113,9 @@ examination (9.31 CGPA)
 
 <!-- TODO-IST:END -->
 
-📈 My GitHub Stats
+<br/>
+
+📈 **My GitHub Stats:**
 
 <p align=""> 
 <img src="https://github-readme-stats.vercel.app/api?username=sandipan898&show_icons=true&theme=radical" alt="Sandipan Das | stat"/> 
