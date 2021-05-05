@@ -61,12 +61,13 @@ As a software developer, I've worked on various technologies and projects which 
 
 📊 **Programming:**
 ```text
-No Activity tracked this Week
+C            █████████████████░░░   85 %  
+Python       ██████████████░░░░░░   70 %  
+HTML & CSS   ████████████░░░░░░░░   60 %  
+Java         ██████████░░░░░░░░░░   50 %   
+JavaScript   █████████░░░░░░░░░░░   45 %  
+C++          ██████░░░░░░░░░░░░░░   30 %  
 ```
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 🏆 **Having working experience as:**
 <!-- WORK-EXPERIENCE:START -->
@@ -89,12 +90,17 @@ examination (9.31 CGPA)
 - Achieved Microsoft learn skill Badges and trophies.
 <!-- ACHIEVEMENTS:END -->
 
-🚧 **My Todoist Records:**
+<!-- 🚧 **My Todoist Records:** -->
 <!-- TODO-IST:START -->
-✅  Completed tasks today: 8           
-🌸  Higest assigned task limit: 10
+<!-- ✅  Completed tasks today: 8            -->
+<!-- 🌸  Higest assigned task limit: 10 -->
 
 <!-- TODO-IST:END -->
+
+📊 This Week I Spent My Time Working On:
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 📈 My GitHub Stats
 
