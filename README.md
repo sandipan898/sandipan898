@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 <!-- Latest compiled and minified JavaScript -->
-<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> --> -->
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> --> 
 
 <a href="https://linkedin.com/in/sandipan-das-528166175/">
   <img align="left" alt="Sandipan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -59,17 +59,22 @@ As a software developer, I've worked on various technologies and projects which 
 <code><img height="20" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
-📊 **Programming:**
+👨‍💻 **Programming:**
 ```text
 C            █████████████████░░░   85 %  
 Python       ██████████████░░░░░░   70 %  
 HTML & CSS   ████████████░░░░░░░░   60 %  
-Java         ██████████░░░░░░░░░░   50 %   
-JavaScript   █████████░░░░░░░░░░░   45 %  
+JavaScript   ████████░░░░░░░░░░░░   40 %  
 C++          ██████░░░░░░░░░░░░░░   30 %  
+Java         ██████░░░░░░░░░░░░░░   30 %   
 ```
 
-🏆 **Having working experience as:**
+🖥️ **This Week I Spent My Time Working On**:
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+💼 **Having working experience as:**
 <!-- WORK-EXPERIENCE:START -->
 - Backend Developer
 - Full Stack Web Developer
@@ -96,11 +101,6 @@ examination (9.31 CGPA)
 <!-- 🌸  Higest assigned task limit: 10 -->
 
 <!-- TODO-IST:END -->
-
-📊 This Week I Spent My Time Working On:
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 📈 My GitHub Stats
 
