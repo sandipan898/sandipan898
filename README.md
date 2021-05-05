@@ -60,7 +60,6 @@ As a software developer, I've worked on various technologies and projects which 
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 📊 **Programming:**
-<!--START_SECTION:waka-->
 ```text
 C            █████████████████░░░   85 %  
 Python       ██████████████░░░░░░   70 %  
@@ -69,6 +68,9 @@ Java         ██████████░░░░░░░░░░   50 %
 JavaScript   █████████░░░░░░░░░░░   45 %  
 C++          ██████░░░░░░░░░░░░░░   30 %  
 ```
+
+<!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 🏆 **Having working experience as:**
