@@ -65,7 +65,7 @@ As a software developer, I've worked on various technologies and projects which 
 🖥️ **My Weekly Activity:**
 <!--START_SECTION:waka-->
 ```text
-Week: 27 April, 2021 - 04 May, 2021
+Week: 28 April, 2021 - 05 May, 2021
 
 Markdown     30 mins         ████████████████████░░░░░   80.15 % 
 Python       5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
