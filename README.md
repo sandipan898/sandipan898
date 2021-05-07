@@ -67,9 +67,10 @@ As a software developer, I've worked on various technologies and projects which 
 ```text
 Week: 29 April, 2021 - 06 May, 2021
 
-Markdown     54 mins         █████████████████████░░░░   84.41 % 
-Python       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-YAML         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown     54 mins         ███████████▒░░░░░░░░░░░░░   45.08 % 
+Python       44 mins         █████████▒░░░░░░░░░░░░░░░   36.92 % 
+HTML         17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 <!--END_SECTION:waka-->
 
