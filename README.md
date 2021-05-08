@@ -62,7 +62,7 @@ As a software developer, I've worked on various technologies and projects which 
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 
-🖥️ **My Weekly Activity:**
+🖥️ **My Activity:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
