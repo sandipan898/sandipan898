@@ -70,13 +70,13 @@ As a software developer, I've worked on various technologies and projects which 
 
 **🐱 My Github Data** 
 
-> 🏆 1,224 Contributions in the Year 2021
+> 🏆 1,226 Contributions in the Year 2021
  > 
 > 📦 367.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 📜 70 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -94,11 +94,11 @@ As a software developer, I've worked on various technologies and projects which 
 ```text
 Monday       182 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
 Tuesday      147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
-Wednesday    188 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+Wednesday    189 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
 Thursday     221 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
 Friday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
 Saturday     156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-Sunday       115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.82%
+Sunday       114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.74%
 
 ```
 
