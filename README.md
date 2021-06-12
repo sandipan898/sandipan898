@@ -70,9 +70,9 @@ As a software developer, I've worked on various technologies and projects which 
 
 **🐱 My Github Data** 
 
-> 🏆 1,244 Contributions in the Year 2021
+> 🏆 1,246 Contributions in the Year 2021
  > 
-> 📦 445.4 kB Used in Github's Storage 
+> 📦 445.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
