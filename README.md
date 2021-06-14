@@ -70,7 +70,7 @@ As a software developer, I've worked on various technologies and projects which 
 
 **🐱 My Github Data** 
 
-> 🏆 1,246 Contributions in the Year 2021
+> 🏆 1,249 Contributions in the Year 2021
  > 
 > 📦 445.5 kB Used in Github's Storage 
  > 
@@ -133,7 +133,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
 
 <br/>
