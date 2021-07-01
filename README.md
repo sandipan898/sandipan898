@@ -66,7 +66,7 @@ As a software developer, I've worked on various technologies and projects which 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -84,9 +84,9 @@ As a software developer, I've worked on various technologies and projects which 
 
 ```text
 🌞 Morning    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-🌆 Daytime    227 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
+🌆 Daytime    230 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
 🌃 Evening    426 commits    █████████░░░░░░░░░░░░░░░░   35.83% 
-🌙 Night      444 commits    █████████░░░░░░░░░░░░░░░░   37.34%
+🌙 Night      441 commits    █████████░░░░░░░░░░░░░░░░   37.09%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -95,9 +95,9 @@ As a software developer, I've worked on various technologies and projects which 
 Monday       187 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
 Tuesday      147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
 Wednesday    189 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Thursday     224 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
+Thursday     227 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
 Friday       166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-Saturday     165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Saturday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
 Sunday       111 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.34%
 
 ```
