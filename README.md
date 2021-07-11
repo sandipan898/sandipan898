@@ -70,7 +70,7 @@ As a software developer, I've worked on various technologies and projects which 
 
 **🐱 My Github Data** 
 
-> 🏆 1,307 Contributions in the Year 2021
+> 🏆 1,314 Contributions in the Year 2021
  > 
 > 📦 445.9 kB Used in Github's Storage 
  > 
@@ -92,10 +92,10 @@ As a software developer, I've worked on various technologies and projects which 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       179 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
+Monday       181 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
 Tuesday      145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
 Wednesday    186 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.76% 
-Thursday     234 commits    █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+Thursday     232 commits    █████░░░░░░░░░░░░░░░░░░░░   19.66% 
 Friday       163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
 Saturday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
 Sunday       114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.66%
