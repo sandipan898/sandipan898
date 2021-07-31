@@ -76,7 +76,7 @@ As a software developer, I've worked on various technologies and projects which 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 74 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
